@@ -16,7 +16,12 @@ daftar pelanggan
 daftar pelanggan berhasil
 
 ![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/behasilDaf.PNG)
-
+data 
 ![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/DataPelanggan.PNG)
+edit
 ![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/edit.PNG)
+berhasil edit
 ![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/berhasiledi.PNG)
+delete
+
+![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/berhasilDel.PNG)
