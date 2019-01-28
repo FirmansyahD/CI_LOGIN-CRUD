@@ -6,7 +6,7 @@ menginput username dan password
 
 jika username dan passworrd benar maka berhasil masuk
 
-![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/behasilLog.PNG)
+![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/berhasilLog.PNG)
 jika logout maka kembali ke login
 ![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/LOGOUT.PNG)
 dan tidak bisa kembali ke halaman web
