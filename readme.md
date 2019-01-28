@@ -24,4 +24,4 @@ berhasil edit
 ![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/berhasiledi.PNG)
 delete
 
-![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/berhasilDel.PNG)
+![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/behasilDel.PNG)
