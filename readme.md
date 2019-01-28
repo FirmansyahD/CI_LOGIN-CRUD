@@ -6,7 +6,7 @@ menginput username dan password
 
 jika username dan passworrd benar maka berhasil masuk
 
-![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/behasillog.PNG)
+![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/behasilLog.PNG)
 jika logout maka kembali ke login
 ![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/LOGOUT.PNG)
 dan tidak bisa kembali ke halaman web
@@ -15,7 +15,8 @@ daftar pelanggan
 ![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/Daftar%20Pelanggan.PNG)
 daftar pelanggan berhasil
 
-![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/berhasilDaf.PNG)
+![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/behasilDaf.PNG)
+
 ![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/DataPelanggan.PNG)
 ![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/edit.PNG)
 ![Alt text](https://github.com/FirmansyahD/CI_LOGIN-CRUD/blob/master/CI-Login%2BCUD/berhasiledi.PNG)
